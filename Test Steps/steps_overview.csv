@@ -1,0 +1,77 @@
+Flow ID,Name,Description,Test Steps,Flow Priority
+1,Search and Adjust Quantity of Hand Tools in Tool Kit,"Navigate to the home page, select hand tools, adjust quantities, and proceed to checkout. Verify the product details and complete the purchase.","Step 1: Navigate to /
+Step 2: Click on label handTools (hammer)
+Step 3: Click on checkbox categorySelection (categoryId)
+Step 4: Click on checkbox categorySelection (categoryId2)
+Step 5: Click on link productDetails (product01J912Hfj8Hwacjhvxhbe9Hrh5) -> Navigate to page 'product/*'
+Step 6: Click on fa quantityControl (increaseQuantity)
+Step 7: Click on fa quantityControl (decreaseQuantity)
+Step 8: Click on fa quantityControl (decreaseQuantity)
+Step 9: Click on button increaseQuantity
+Step 10: Click on button increaseQuantity
+Step 11: Click on button cartActions (addToFavourites)
+Step 12: Click on button cartActions (addToCart)
+Step 13: Click on link moreInformation
+Step 14: Click on link checkout -> Navigate to page '/checkout'
+Step 15: Click on input quantityForAdjustableWrench
+Step 16: Enter input value in input quantityForAdjustableWrench
+Step 17: Click on aw step itemQuantityPriceTotal
+Step 18: Click on aw step itemQuantityPriceTotal
+Step 19: Click on span object
+Step 20: Click on td object
+Step 21: Click on td object
+Step 22: Click on button proceedToCheckout
+Step 23: Login
+Step 24: Click on fa navCart
+Step 25: Click on fa navCart
+Step 26: Click on link checkout
+Step 27: Click on link categories
+Step 28: Click on link handTools -> Navigate to page 'category/*'
+Step 29: Click on link product01J912Hfethf1T3Xes6H5Bkk98 -> Navigate to page 'product/*'
+Step 30: Click on link home -> Navigate to page '/'
+Step 31: Click on div filters
+Step 32: Click on checkbox categorySelection (categoryId3)
+Step 33: Click on span sliderMax
+Step 34: Click on span sliderMax
+Step 35: Click on span sliderMax
+Step 36: Click on fa priceRange
+Step 37: Click on label toolBrands (forgeFlexTools)
+Step 38: Click on label toolBrands (mightyCraftHardware)
+Step 39: Click on label handTools (toolBelts) -> Navigate to page ''
+Step 40: Take full page screenshot as checkpoint
+",High
+2,Explore Product Details and Language Options for Hand Tools,"Navigate to the home page, view product details, change language settings, and explore various tool brands. Verify product information and navigation.","Step 1: Navigate to /
+Step 2: Click on link productDetails (product01J912Hffqhpregzkrs9Hw6Er2) -> Navigate to page 'product/*'
+Step 3: Click on link pliersMoreInformation
+Step 4: Click on button cartActions (addToFavourites)
+Step 5: Click on div unauthorizedToast
+Step 6: Click on button languageEn
+Step 7: Click on link languageSelection (languageEn)
+Step 8: Click on button languageEn
+Step 9: Click on link languageSelection (languageFr)
+Step 10: Click on div pliersForgeFlexTools
+Step 11: Click on button languageFr
+Step 12: Click on link languageSelection (languageTr)
+Step 13: Click on p productDescription
+Step 14: Click on button languageTr
+Step 15: Click on link languageSelection (languageDe)
+Step 16: Click on link home -> Navigate to page '/'
+Step 17: Click on link navigation (nextPage)
+Step 18: Click on link pageNavigation (page5)
+Step 19: Click on item nextPage
+Step 20: Click on link pageNavigation (page3)
+Step 21: Click on link navigation (previousPage)
+Step 22: Click on link pageNavigation (page1)
+Step 23: Click on link pageNavigation (page1)
+Step 24: Click on label toolBrands (QA AUTO 2k5UC)
+Step 25: Click on label toolBrands (QA AUTO 2k5UC)
+Step 26: Click on label handTools (hammer)
+Step 27: Click on label handTools (handSaw)
+Step 28: Click on label handTools (hammer)
+Step 29: Click on label handTools (chisels)
+Step 30: Click on label handTools (handSaw)
+Step 31: Click on label handTools (handSaw)
+Step 32: Click on checkbox categorySelection (categoryId4)
+Step 33: Click on link productDetails (product01J912Hfksbtp1Nyp1T62Jscv2) -> Navigate to page 'product/*'
+Step 34: Take full page screenshot as checkpoint
+",High
