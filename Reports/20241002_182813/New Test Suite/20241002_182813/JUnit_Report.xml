@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="495.202" tests="2" failures="2" errors="0">
+   <testsuite name="New Test Suite" tests="2" failures="2" errors="0" time="495.202" skipped="0" timestamp="2024-10-02 18:28:23" hostname="linh.nguyen - localhost" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813"/>
+         <property name="logFiles" value="/Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/execution0.log"/>
+         <property name="attachments" value="TC2/Step 2-Click on link productDetails product01J912Hffqhpregzkrs9Hw6Er2 - Navigate to page product.png, TC2/Step 3-Click on link pliersMoreInformation.png, TC2/Step 4-Click on button cartActions addToFavourites.png, /Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868564450.png, TC2/Step 2-Click on link productDetails product01J912Hffqhpregzkrs9Hw6Er2 - Navigate to page product.png, TC2/Step 3-Click on link pliersMoreInformation.png, TC2/Step 4-Click on button cartActions addToFavourites.png, /Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868616972.png, TC2/Step 2-Click on link productDetails product01J912Hffqhpregzkrs9Hw6Er2 - Navigate to page product.png, TC2/Step 3-Click on link pliersMoreInformation.png, TC2/Step 4-Click on button cartActions addToFavourites.png, /Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868670110.png, TC2/Step 2-Click on link productDetails product01J912Hffqhpregzkrs9Hw6Er2 - Navigate to page product.png, TC2/Step 3-Click on link pliersMoreInformation.png, TC2/Step 4-Click on button cartActions addToFavourites.png, /Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868722962.png, TC1/Step 2-Click on label handTools hammer.png, TC1/Step 3-Click on checkbox categorySelection categoryId.png, TC1/Step 4-Click on checkbox categorySelection categoryId2.png, TC1/Step 5-Click on link productDetails product01J912Hfj8Hwacjhvxhbe9Hrh5 - Navigate to page product.png, TC1/Step 6-Click on fa quantityControl increaseQuantity.png, TC1/Step 7-Click on fa quantityControl decreaseQuantity.png, TC1/Step 8-Click on fa quantityControl decreaseQuantity.png, TC1/Step 9-Click on button increaseQuantity.png, TC1/Step 10-Click on button increaseQuantity.png, TC1/Step 11-Click on button cartActions addToFavourites.png, TC1/Step 12-Click on button cartActions addToCart.png, TC1/Step 13-Click on link moreInformation.png, /Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868791460.png, TC1/Step 2-Click on label handTools hammer.png, TC1/Step 3-Click on checkbox categorySelection categoryId.png, TC1/Step 4-Click on checkbox categorySelection categoryId2.png, TC1/Step 5-Click on link productDetails product01J912Hfj8Hwacjhvxhbe9Hrh5 - Navigate to page product.png, TC1/Step 6-Click on fa quantityControl increaseQuantity.png, TC1/Step 7-Click on fa quantityControl decreaseQuantity.png, TC1/Step 8-Click on fa quantityControl decreaseQuantity.png, TC1/Step 9-Click on button increaseQuantity.png, TC1/Step 10-Click on button increaseQuantity.png, TC1/Step 11-Click on button cartActions addToFavourites.png, TC1/Step 12-Click on button cartActions addToCart.png, TC1/Step 13-Click on link moreInformation.png, /Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868860375.png, TC1/Step 2-Click on label handTools hammer.png, TC1/Step 3-Click on checkbox categorySelection categoryId.png, TC1/Step 4-Click on checkbox categorySelection categoryId2.png, TC1/Step 5-Click on link productDetails product01J912Hfj8Hwacjhvxhbe9Hrh5 - Navigate to page product.png, TC1/Step 6-Click on fa quantityControl increaseQuantity.png, TC1/Step 7-Click on fa quantityControl decreaseQuantity.png, TC1/Step 8-Click on fa quantityControl decreaseQuantity.png, TC1/Step 9-Click on button increaseQuantity.png, TC1/Step 10-Click on button increaseQuantity.png, TC1/Step 11-Click on button cartActions addToFavourites.png, TC1/Step 12-Click on button cartActions addToCart.png, TC1/Step 13-Click on link moreInformation.png, /Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868929661.png, TC1/Step 2-Click on label handTools hammer.png, TC1/Step 3-Click on checkbox categorySelection categoryId.png, TC1/Step 4-Click on checkbox categorySelection categoryId2.png, TC1/Step 5-Click on link productDetails product01J912Hfj8Hwacjhvxhbe9Hrh5 - Navigate to page product.png, TC1/Step 6-Click on fa quantityControl increaseQuantity.png, TC1/Step 7-Click on fa quantityControl decreaseQuantity.png, TC1/Step 8-Click on fa quantityControl decreaseQuantity.png, TC1/Step 9-Click on button increaseQuantity.png, TC1/Step 10-Click on button increaseQuantity.png, TC1/Step 11-Click on button cartActions addToFavourites.png, TC1/Step 12-Click on button cartActions addToCart.png, TC1/Step 13-Click on link moreInformation.png, /Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868998625.png"/>
+         <property name="hostName" value="linh.nguyen - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="9ea5c2ffcb5e6e8350fc3e55407264fa"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools" time="52.889" classname="Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools" status="FAILED">
+         <failure type="FAILED" message="Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC2-Explore Product Details and Language Options for Hand Tools.run(TC2-Explore Product Details and Language Options for Hand Tools:51)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' located by '//body/div[2]/div[1]/div[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2024-10-02 18:31:10 - [TEST_CASE][FAILED] - Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools: Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC2-Explore Product Details and Language Options for Hand Tools.run(TC2-Explore Product Details and Language Options for Hand Tools:51)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' located by '//body/div[2]/div[1]/div[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2024-10-02 18:31:10 - [TEST_STEP][PASSED] - Start setup action : setup: Method 'setup' complete successfully
+
+2024-10-02 18:31:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-10-02 18:31:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-10-02 18:31:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-10-02 18:31:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-10-02 18:31:16 - [TEST_STEP][PASSED] - setViewPortSize(1920, 1080): Viewport is set to new size with width = 1920 and height = 1080
+
+2024-10-02 18:31:17 - [MESSAGE][PASSED] - Viewport is set to new size with width = 1920 and height = 1080
+
+2024-10-02 18:31:17 - [MESSAGE][PASSED] - Method 'setup' complete successfully
+
+2024-10-02 18:31:17 - [TEST_STEP][PASSED] - reportLocation = getReportFolder(): null
+
+2024-10-02 18:31:17 - [TEST_STEP][PASSED] - "Initialize test session: Open browser and set view port": null
+
+2024-10-02 18:31:17 - [TEST_STEP][PASSED] - TrueTestScripts.navigate("/"): Delayed 3 second(s)
+
+2024-10-02 18:31:19 - [MESSAGE][PASSED] - Navigate to 'https://practicesoftwaretesting.com/' successfully
+
+2024-10-02 18:31:22 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-02 18:31:22 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_home/link_productDetails", ["link_productDetails_dataTest":link_productDetails_dataTest, "link_productDetails_product_id":link_productDetails_product_id])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/link_productDetails' is clicked on
+
+2024-10-02 18:31:22 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/link_productDetails' is clicked on
+
+2024-10-02 18:31:22 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC2/Step 2-Click on link productDetails product01J912Hffqhpregzkrs9Hw6Er2 - Navigate to page product.png"): Taking screenshot successfully
+
+2024-10-02 18:31:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC2/Step 2-Click on link productDetails product01J912Hffqhpregzkrs9Hw6Er2 - Navigate to page product.png]]
+
+2024-10-02 18:31:25 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Page_product/link_pliersMoreInformation")): Object: 'Object Repository/AI-Generated/Page_product/link_pliersMoreInformation' is clicked on
+
+2024-10-02 18:31:25 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Page_product/link_pliersMoreInformation' is clicked on
+
+2024-10-02 18:31:25 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC2/Step 3-Click on link pliersMoreInformation.png"): Taking screenshot successfully
+
+2024-10-02 18:31:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC2/Step 3-Click on link pliersMoreInformation.png]]
+
+2024-10-02 18:31:27 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_product/button_cartActions", ["button_cartActions_dataTest":button_cartActions_dataTest])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/button_cartActions' is clicked on
+
+2024-10-02 18:31:27 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/button_cartActions' is clicked on
+
+2024-10-02 18:31:27 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC2/Step 4-Click on button cartActions addToFavourites.png"): Taking screenshot successfully
+
+2024-10-02 18:31:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC2/Step 4-Click on button cartActions addToFavourites.png]]
+
+2024-10-02 18:31:29 - [TEST_STEP][FAILED] - enhancedClick(findTestObject("AI-Generated/Page_product/div_unauthorizedToast")): Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC2-Explore Product Details and Language Options for Hand Tools.run(TC2-Explore Product Details and Language Options for Hand Tools:51)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' located by '//body/div[2]/div[1]/div[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at Script1727691222246.run(Script1727691222246.groovy:51)
+	... 16 more
+)
+
+2024-10-02 18:32:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //body/div[2]/div[1]/div[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-10-02 18:32:00 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast'. Try using Self-healing.
+
+2024-10-02 18:32:01 - [MESSAGE][INFO] - [SELF-HEALING] No working XPath is found.
+
+2024-10-02 18:32:02 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-10-02 18:32:02 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the selector is null
+
+2024-10-02 18:32:03 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC2-Explore Product Details and Language Options for Hand Tools.run(TC2-Explore Product Details and Language Options for Hand Tools:51)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' located by '//body/div[2]/div[1]/div[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at Script1727691222246.run(Script1727691222246.groovy:51)
+	... 16 more
+)
+[[ATTACHMENT|/Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868722962.png]]
+
+2024-10-02 18:32:03 - [TEST_STEP][PASSED] - Start tear down : teardown: Method 'teardown' complete successfully
+
+2024-10-02 18:32:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-10-02 18:32:03 - [MESSAGE][PASSED] - Browser is closed
+
+2024-10-02 18:32:03 - [MESSAGE][PASSED] - Method 'teardown' complete successfully]]></system-out>
+         <system-err><![CDATA[2024-10-02 18:31:10 - [TEST_CASE][FAILED] - Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools: Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC2-Explore Product Details and Language Options for Hand Tools.run(TC2-Explore Product Details and Language Options for Hand Tools:51)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' located by '//body/div[2]/div[1]/div[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AI-Generated/TC1-Search and Adjust Quantity of Hand Tools in Tool Kit" time="68.976" classname="Test Cases/AI-Generated/TC1-Search and Adjust Quantity of Hand Tools in Tool Kit" status="FAILED">
+         <failure type="FAILED" message="Test Cases/AI-Generated/TC1-Search and Adjust Quantity of Hand Tools in Tool Kit FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/link_checkout'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC1-Search and Adjust Quantity of Hand Tools in Tool Kit.run(TC1-Search and Adjust Quantity of Hand Tools in Tool Kit:130)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/link_checkout' located by '//body/app-root[1]/app-header[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2024-10-02 18:35:30 - [TEST_CASE][FAILED] - Test Cases/AI-Generated/TC1-Search and Adjust Quantity of Hand Tools in Tool Kit: Test Cases/AI-Generated/TC1-Search and Adjust Quantity of Hand Tools in Tool Kit FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/link_checkout'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC1-Search and Adjust Quantity of Hand Tools in Tool Kit.run(TC1-Search and Adjust Quantity of Hand Tools in Tool Kit:130)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/link_checkout' located by '//body/app-root[1]/app-header[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2024-10-02 18:35:30 - [TEST_STEP][PASSED] - Start setup action : setup: Method 'setup' complete successfully
+
+2024-10-02 18:35:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-10-02 18:35:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-10-02 18:35:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-10-02 18:35:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-10-02 18:35:36 - [TEST_STEP][PASSED] - setViewPortSize(1920, 1080): Viewport is set to new size with width = 1920 and height = 1080
+
+2024-10-02 18:35:36 - [MESSAGE][PASSED] - Viewport is set to new size with width = 1920 and height = 1080
+
+2024-10-02 18:35:36 - [MESSAGE][PASSED] - Method 'setup' complete successfully
+
+2024-10-02 18:35:36 - [TEST_STEP][PASSED] - reportLocation = getReportFolder(): null
+
+2024-10-02 18:35:36 - [TEST_STEP][PASSED] - "Initialize test session: Open browser and set view port": null
+
+2024-10-02 18:35:36 - [TEST_STEP][PASSED] - TrueTestScripts.navigate("/"): Delayed 3 second(s)
+
+2024-10-02 18:35:38 - [MESSAGE][PASSED] - Navigate to 'https://practicesoftwaretesting.com/' successfully
+
+2024-10-02 18:35:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-10-02 18:35:41 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_home/label_handTools", ["label_handTools_internalText":label_handTools_internalText])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/label_handTools' is clicked on
+
+2024-10-02 18:35:42 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/label_handTools' is clicked on
+
+2024-10-02 18:35:42 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 2-Click on label handTools hammer.png"): Taking screenshot successfully
+
+2024-10-02 18:35:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 2-Click on label handTools hammer.png]]
+
+2024-10-02 18:35:44 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_home/checkbox_categorySelection", ["checkbox_categorySelection_dataTest":checkbox_categorySelection_dataTest])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/checkbox_categorySelection' is clicked on
+
+2024-10-02 18:35:44 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/checkbox_categorySelection' is clicked on
+
+2024-10-02 18:35:44 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 3-Click on checkbox categorySelection categoryId.png"): Taking screenshot successfully
+
+2024-10-02 18:35:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 3-Click on checkbox categorySelection categoryId.png]]
+
+2024-10-02 18:35:47 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_home/checkbox_categorySelection", ["checkbox_categorySelection_dataTest":checkbox_categorySelection_dataTest_1])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/checkbox_categorySelection' is clicked on
+
+2024-10-02 18:35:47 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/checkbox_categorySelection' is clicked on
+
+2024-10-02 18:35:47 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 4-Click on checkbox categorySelection categoryId2.png"): Taking screenshot successfully
+
+2024-10-02 18:35:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 4-Click on checkbox categorySelection categoryId2.png]]
+
+2024-10-02 18:35:49 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_home/link_productDetails", ["link_productDetails_dataTest":link_productDetails_dataTest, "link_productDetails_product_id":link_productDetails_product_id])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/link_productDetails' is clicked on
+
+2024-10-02 18:35:49 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_home/link_productDetails' is clicked on
+
+2024-10-02 18:35:49 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 5-Click on link productDetails product01J912Hfj8Hwacjhvxhbe9Hrh5 - Navigate to page product.png"): Taking screenshot successfully
+
+2024-10-02 18:35:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 5-Click on link productDetails product01J912Hfj8Hwacjhvxhbe9Hrh5 - Navigate to page product.png]]
+
+2024-10-02 18:35:52 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_product/fa_quantityControl", ["fa_quantityControl_dataTest":fa_quantityControl_dataTest])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/fa_quantityControl' is clicked on
+
+2024-10-02 18:35:52 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/fa_quantityControl' is clicked on
+
+2024-10-02 18:35:52 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 6-Click on fa quantityControl increaseQuantity.png"): Taking screenshot successfully
+
+2024-10-02 18:35:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 6-Click on fa quantityControl increaseQuantity.png]]
+
+2024-10-02 18:35:53 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_product/fa_quantityControl", ["fa_quantityControl_dataTest":fa_quantityControl_dataTest_1])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/fa_quantityControl' is clicked on
+
+2024-10-02 18:35:53 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/fa_quantityControl' is clicked on
+
+2024-10-02 18:35:53 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 7-Click on fa quantityControl decreaseQuantity.png"): Taking screenshot successfully
+
+2024-10-02 18:35:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 7-Click on fa quantityControl decreaseQuantity.png]]
+
+2024-10-02 18:35:54 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_product/fa_quantityControl", ["fa_quantityControl_dataTest":fa_quantityControl_dataTest_2])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/fa_quantityControl' is clicked on
+
+2024-10-02 18:35:54 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/fa_quantityControl' is clicked on
+
+2024-10-02 18:35:54 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 8-Click on fa quantityControl decreaseQuantity.png"): Taking screenshot successfully
+
+2024-10-02 18:35:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 8-Click on fa quantityControl decreaseQuantity.png]]
+
+2024-10-02 18:35:55 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Page_product/button_increaseQuantity")): Object: 'Object Repository/AI-Generated/Page_product/button_increaseQuantity' is clicked on
+
+2024-10-02 18:35:55 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Page_product/button_increaseQuantity' is clicked on
+
+2024-10-02 18:35:55 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 9-Click on button increaseQuantity.png"): Taking screenshot successfully
+
+2024-10-02 18:35:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 9-Click on button increaseQuantity.png]]
+
+2024-10-02 18:35:56 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Page_product/button_increaseQuantity")): Object: 'Object Repository/AI-Generated/Page_product/button_increaseQuantity' is clicked on
+
+2024-10-02 18:35:57 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Page_product/button_increaseQuantity' is clicked on
+
+2024-10-02 18:35:57 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 10-Click on button increaseQuantity.png"): Taking screenshot successfully
+
+2024-10-02 18:35:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 10-Click on button increaseQuantity.png]]
+
+2024-10-02 18:35:57 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_product/button_cartActions", ["button_cartActions_dataTest":button_cartActions_dataTest])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/button_cartActions' is clicked on
+
+2024-10-02 18:35:58 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/button_cartActions' is clicked on
+
+2024-10-02 18:35:58 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 11-Click on button cartActions addToFavourites.png"): Taking screenshot successfully
+
+2024-10-02 18:36:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 11-Click on button cartActions addToFavourites.png]]
+
+2024-10-02 18:36:00 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Dynamic Objects/Page_product/button_cartActions", ["button_cartActions_dataTest":button_cartActions_dataTest_1])): Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/button_cartActions' is clicked on
+
+2024-10-02 18:36:00 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Dynamic Objects/Page_product/button_cartActions' is clicked on
+
+2024-10-02 18:36:00 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 12-Click on button cartActions addToCart.png"): Taking screenshot successfully
+
+2024-10-02 18:36:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 12-Click on button cartActions addToCart.png]]
+
+2024-10-02 18:36:02 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("AI-Generated/Page_product/link_moreInformation")): Object: 'Object Repository/AI-Generated/Page_product/link_moreInformation' is clicked on
+
+2024-10-02 18:36:02 - [MESSAGE][PASSED] - Object: 'Object Repository/AI-Generated/Page_product/link_moreInformation' is clicked on
+
+2024-10-02 18:36:02 - [TEST_STEP][PASSED] - takeScreenshot(reportLocation + "/TC1/Step 13-Click on link moreInformation.png"): Taking screenshot successfully
+
+2024-10-02 18:36:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|TC1/Step 13-Click on link moreInformation.png]]
+
+2024-10-02 18:36:05 - [TEST_STEP][FAILED] - enhancedClick(findTestObject("AI-Generated/Page_product/link_checkout")): Unable to click on object 'Object Repository/AI-Generated/Page_product/link_checkout' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/link_checkout'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC1-Search and Adjust Quantity of Hand Tools in Tool Kit.run(TC1-Search and Adjust Quantity of Hand Tools in Tool Kit:130)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/link_checkout' located by '//body/app-root[1]/app-header[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at Script1727691222043.run(Script1727691222043.groovy:130)
+	... 16 more
+)
+
+2024-10-02 18:36:36 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //body/app-root[1]/app-header[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-10-02 18:36:36 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/AI-Generated/Page_product/link_checkout'. Try using Self-healing.
+
+2024-10-02 18:36:37 - [MESSAGE][INFO] - [SELF-HEALING] No working XPath is found.
+
+2024-10-02 18:36:38 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@href = '/checkout']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-10-02 18:36:38 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the selector is null
+
+2024-10-02 18:36:38 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/AI-Generated/Page_product/link_checkout' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/link_checkout'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC1-Search and Adjust Quantity of Hand Tools in Tool Kit.run(TC1-Search and Adjust Quantity of Hand Tools in Tool Kit:130)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/link_checkout' located by '//body/app-root[1]/app-header[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at Script1727691222043.run(Script1727691222043.groovy:130)
+	... 16 more
+)
+[[ATTACHMENT|/Users/linh.nguyen/Desktop/TrueTest_Demo/Reports/20241002_182813/New Test Suite/20241002_182813/1727868998625.png]]
+
+2024-10-02 18:36:38 - [TEST_STEP][PASSED] - Start tear down : teardown: Method 'teardown' complete successfully
+
+2024-10-02 18:36:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-10-02 18:36:39 - [MESSAGE][PASSED] - Browser is closed
+
+2024-10-02 18:36:39 - [MESSAGE][PASSED] - Method 'teardown' complete successfully]]></system-out>
+         <system-err><![CDATA[2024-10-02 18:35:30 - [TEST_CASE][FAILED] - Test Cases/AI-Generated/TC1-Search and Adjust Quantity of Hand Tools in Tool Kit: Test Cases/AI-Generated/TC1-Search and Adjust Quantity of Hand Tools in Tool Kit FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/link_checkout'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC1-Search and Adjust Quantity of Hand Tools in Tool Kit.run(TC1-Search and Adjust Quantity of Hand Tools in Tool Kit:130)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/link_checkout' located by '//body/app-root[1]/app-header[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-10-02 18:28:23 - [TEST_SUITE][FAILED] - New Test Suite: Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC2-Explore Product Details and Language Options for Hand Tools.run(TC2-Explore Product Details and Language Options for Hand Tools:51)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' located by '//body/div[2]/div[1]/div[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-10-02 18:28:23 - [TEST_SUITE][FAILED] - New Test Suite: Test Cases/AI-Generated/TC2-Explore Product Details and Language Options for Hand Tools FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.click(EnhancedClickKeyword.groovy:94)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword.execute(EnhancedClickKeyword.groovy:42)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.enhancedClick(WebUiBuiltInKeywords.groovy:646)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$enhancedClick$2.call(Unknown Source)
+	at TC2-Explore Product Details and Language Options for Hand Tools.run(TC2-Explore Product Details and Language Options for Hand Tools:51)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1727868493284.run(TempTestSuite1727868493284.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AI-Generated/Page_product/div_unauthorizedToast' located by '//body/div[2]/div[1]/div[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.doCall(EnhancedClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.EnhancedClickKeyword$_click_closure1.call(EnhancedClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>
