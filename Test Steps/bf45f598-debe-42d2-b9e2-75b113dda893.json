@@ -1,0 +1,22 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on button LanguageTR",
+        "step 3: Click on link languageSelection (LanguageEN)",
+        "step 4: Click on link SignIn2 -> Navigate to page 'auth/login'",
+        "step 5: Login -> Navigate to page 'admin/dashboard'",
+        "step 6: Click on link Home -> Navigate to page '/'",
+        "step 7: Click on link productItems (ProductCombinationPliers) -> Navigate to page 'product/*'",
+        "step 8: Click on fa IncreaseQuantity",
+        "step 9: Click on button favoritesCartActions (AddToFavorites2)",
+        "step 10: Click on link Categories",
+        "step 11: Click on button LanguageEN",
+        "step 12: Click on div HomeCategories",
+        "step 13: Click on link SignIn -> Navigate to page 'auth/login'",
+        "step 14: Login -> Navigate to page '/account'",
+        "step 15: Click on link Favorites -> Navigate to page 'account/favorites'",
+        "step 16: Click on button DeleteFavorite",
+        "step 17: Click on link Home -> Navigate to page '/'",
+        "step 18: Take full page screenshot as checkpoint"
+    ]
+}

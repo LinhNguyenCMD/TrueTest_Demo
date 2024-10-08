@@ -1,0 +1,42 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+3,User Sign In and Home Page Verification,"Navigate to the home page, sign in, and verify successful login by checking the home page.","Step 1: Navigate to /
+Step 2: Click on link SignIn -> Navigate to page 'auth/login'
+Step 3: Login -> Navigate to page ''
+Step 4: Take full page screenshot as checkpoint
+",High,NEW
+4,Language Selection and Product Interaction Flow,"Navigate to home, switch languages, interact with product items, add to favorites, and verify language changes.","Step 1: Navigate to /
+Step 2: Click on button LanguageDE
+Step 3: Click on link languageSelection (LanguageES)
+Step 4: Click on button LanguageES
+Step 5: Click on link languageSelection (LanguageTR)
+Step 6: Click on link productItems (ProductThorHammer) -> Navigate to page 'product/*'
+Step 7: Click on button favoritesCartActions (AddToCart)
+Step 8: Click on link MoreInfo
+Step 9: Click on button favoritesCartActions (AddToFavorites)
+Step 10: Click on button favoritesCartActions (AddToFavorites)
+Step 11: Click on link Cart -> Navigate to page '/checkout'
+Step 12: Click on link ThorHammerQuantity
+Step 13: Click on fa ThorHammerQuantity
+Step 14: Click on td QuantityCell
+Step 15: Click on button LanguageTR -> Navigate to page '/'
+Step 16: Take full page screenshot as checkpoint
+",Medium,NEW
+5,Admin Login and Favorites Management Flow,"Navigate to home, change language, log in as admin, manage product quantities, and delete favorites while verifying the home page.","Step 1: Navigate to /
+Step 2: Click on button LanguageTR
+Step 3: Click on link languageSelection (LanguageEN)
+Step 4: Click on link SignIn2 -> Navigate to page 'auth/login'
+Step 5: Login -> Navigate to page 'admin/dashboard'
+Step 6: Click on link Home -> Navigate to page '/'
+Step 7: Click on link productItems (ProductCombinationPliers) -> Navigate to page 'product/*'
+Step 8: Click on fa IncreaseQuantity
+Step 9: Click on button favoritesCartActions (AddToFavorites2)
+Step 10: Click on link Categories
+Step 11: Click on button LanguageEN
+Step 12: Click on div HomeCategories
+Step 13: Click on link SignIn -> Navigate to page 'auth/login'
+Step 14: Login -> Navigate to page '/account'
+Step 15: Click on link Favorites -> Navigate to page 'account/favorites'
+Step 16: Click on button DeleteFavorite
+Step 17: Click on link Home -> Navigate to page '/'
+Step 18: Take full page screenshot as checkpoint
+",Trivial,NEW
